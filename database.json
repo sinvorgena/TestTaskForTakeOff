@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "fullName": "Andrey Smirnov",
+      "phoneNumber": "79224922159",
+      "id": 2
+    },
+    {
+      "fullName": "Владимир Максимов",
+      "phoneNumber": "89226367978",
+      "id": 5
+    },
+    {
+      "fullName": "vfrc",
+      "phoneNumber": "89226367978",
+      "id": 6
+    },
+    {
+      "fullName": "Владимир",
+      "phoneNumber": "89226367978",
+      "id": 7
+    },
+    {
+      "fullName": "Владимир",
+      "phoneNumber": "89226367978",
+      "id": 8
+    },
+    {
+      "fullName": "Владимир",
+      "phoneNumber": "89226367978",
+      "id": 9
+    },
+    {
+      "fullName": "Владимир",
+      "phoneNumber": "+7(922)-636-79-78",
+      "id": 10
+    },
+    {
+      "fullName": "test_scd@skyeng.ru",
+      "phoneNumber": "+7(922)-636-79-78",
+      "id": 11
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "id": 1,
+    "email": "pismecho@gmail.com",
+    "password": "tessssst"
+  }
+}
